@@ -1,0 +1,3 @@
+D:/works/clion_cpp_projects/HuffMan/cmake-build-debug/CMakeFiles/HuffMan.dir
+D:/works/clion_cpp_projects/HuffMan/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/works/clion_cpp_projects/HuffMan/cmake-build-debug/CMakeFiles/rebuild_cache.dir
